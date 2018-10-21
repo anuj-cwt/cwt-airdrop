@@ -70,8 +70,7 @@
         <div class="col-md-8">
           <p class="text-black railway">About Coinware</p>
             <hr>
-            <p class="text-black" style="font-weight: 400;">Coinware (“Coinware”) is all about migrants and their unbanked families. Its an ECOSYSTEM enabled by the Coinware Wallet as a PLATFORM, a single sign on platform revolving around their issues and problems. Employment issues, digital ID’s, communities build up, government and NGO partnerships, health issues, and of course, a new financial ecosystem for the huge underbanked population by capitalizing the Blockchain revolution to bridge the gap between cash, digital and the crypto world.
-            <br><br>By creating a whole new peer to peer ecosystem, Coinware aims to revolutionize the way individuals, small businesses and micro-entrepreneurs transact, make payments, borrow money and associated products like insurances, domestic and Cross-Border remittances, cards and other general banking products.
+            <p class="text-black" style="font-weight: 400;">The COINWARE pocket or wallet store your public and private keys and connects it with various blockchain networks so you can monitor your balance, send and receive crypto assets and conduct other transactions. The COINWARE pocket is easy to use and fortified with the highest level of security ensuring that your digital assets are safely secured. When someone sends you any type of digital currency, they are essentially signing off ownership of the digital currency to your wallet address. In order to be able to carry out transactions with these digital currencies, and unlock the funds, the private key stored in your wallet must match the public address the currency is assigned to. The transaction is signified by a transaction record on the blockchain and a change in balance in your COINWARE POCKET.
           </p>
           <hr>
           </div>
