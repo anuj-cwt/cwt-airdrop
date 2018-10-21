@@ -66,8 +66,8 @@ class AirdropController extends Controller
 
                 Mail::send(['html' => 'mail.register'], $maildata, function ($message) use ($email, $telegram_username) {
                 $message->to($email, $telegram_username)
-                    ->subject('Lala World : Airdrop Registration');
-                $message->from('hello@lalaworld.io', 'Lala World');
+                    ->subject('Coinware Exchange : Airdrop Registration');
+                $message->from('info@coinware.co', 'Coinware Exchange');
                 });
 
                 die(json_encode(['status'=>'succ','msg'=>'User registered successfully']));
